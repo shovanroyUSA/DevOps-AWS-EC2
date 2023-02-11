@@ -4,11 +4,15 @@ You have been hired by the client ABC Infotech in a DevOps Engineer Role, where 
 1.
 Instance Image : Ubuntu 20.04
 2.
+
 Instance Name : AWS-EC2 Instance
 3.
+
 Instance should accept incoming request over HTTP protocol on all
 the ports.
 4.
+
 Instance should accept SSH connection on port 22.
 5.
+
 Instance should have 8 GB of General Purpose SSD attached.
